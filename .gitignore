@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+data/
+*.parquet
+env_recsys_start
 .Python
 build/
 develop-eggs/
