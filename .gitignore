@@ -5,8 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+.env
 
 # Distribution / packaging
+models/
 data/
 *.parquet
 env_recsys_start
