@@ -61,7 +61,7 @@ jupyter lab --ip=0.0.0.0 --no-browser
 
 # Сервис рекомендаций
 
-Код сервиса рекомендаций находится в файле `service/recommendations_service.py`.
+Код сервиса рекомендаций находится в файле `ecommendations_service.py`.
 
 Из корневой папки проекта 
 ```
@@ -69,11 +69,11 @@ cd ~/mle_projects/mle-recsys-project-start
 ```
 запустить 
 ```
-uvicorn service.recommendations_service:app --port 8010
+uvicorn recommendations_service:app --port 8010
 ```
 # Инструкции для тестирования сервиса
 
-Код для тестирования сервиса находится в файле `service/test_service.py`.
+Код для тестирования сервиса находится в файле `test_service.py`.
 ```
-python -m service.test_service.py
+python -m test_service.py
 ```
