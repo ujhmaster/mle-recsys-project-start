@@ -421,3 +421,207 @@ id
 67472538          Mustapha (Intro)
 86355553        I'm an Accompanist
 94902735                      Лего
+INFO:root:История пользователя 94682. Случайные 10 треков
+INFO:root:                                     name
+id                                       
+15271                    Somebody Told Me
+170051                      Snow (Hey Oh)
+515897                               Home
+648437                         C.R.E.A.M.
+21153564                         No Twerk
+25726969                      Mess Around
+39959766                               21
+59467422                          Burrito
+61003285  Я тебя никогда не отдам мусорам
+77752065                          Podruga
+INFO:root:Запрос рекомендаций для пользователя 94682
+INFO:root:{'user_id': 94682, 'k': 10}
+INFO:root:{'recs': [30904414, 46409994, 31219146, 58723120, 54673656, 35785893, 44484514, 40493419, 44446013, 51165489]}
+INFO:root:                          name
+id                            
+30904414                Lordly
+31219146                My Way
+35785893  Got U (Ready or Not)
+40493419        Cumberland Gap
+44446013                   Opr
+44484514                Shadow
+46409994        When I'm Small
+51165489         Old Town Road
+54673656                Lalala
+58723120                 Odium
+INFO:root:{'user_id': 94682, 'item_id': 44446013}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 94682, 'k': 10}
+INFO:root:{'recs': [44446013, 31219146, 17370888, 28309721, 35785893, 54673656, 40493419, 26435526, 58723120, 46409994]}
+INFO:root:                          name
+id                            
+17370888          Destinations
+26435526          Eyes on Fire
+28309721       Gangsta Gangsta
+31219146                My Way
+35785893  Got U (Ready or Not)
+40493419        Cumberland Gap
+44446013                   Opr
+46409994        When I'm Small
+54673656                Lalala
+58723120                 Odium
+INFO:root:{'user_id': 94682, 'item_id': 31219146}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 94682, 'k': 10}
+INFO:root:{'recs': [58723120, 35137886, 32188268, 30904414, 26423850, 43011129, 44484514, 51165489, 32557948, 46409994]}
+INFO:root:                       name
+id                         
+26423850        Led Spirals
+30904414             Lordly
+32188268            Be Mine
+32557948  You Don't Know Me
+35137886      Transmissions
+43011129            Breathe
+44484514             Shadow
+46409994     When I'm Small
+51165489      Old Town Road
+58723120              Odium
+INFO:root:{'user_id': 94682, 'item_id': 40493419}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 94682, 'k': 10}
+INFO:root:{'recs': [62179349, 34100263, 29974715, 46953927, 44484514, 13483762, 51165489, 43011129, 41103243, 54673656]}
+INFO:root:                              name
+id                                
+13483762               Dum Dee Dum
+29974715  The Rocky Road to Dublin
+34100263                  Wild One
+41103243                    Murder
+43011129                   Breathe
+44484514                    Shadow
+46953927                   Free Me
+51165489             Old Town Road
+54673656                    Lalala
+62179349         Short Change Hero
+INFO:root:{'user_id': 94682, 'item_id': 35785893}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 94682, 'k': 10}
+INFO:root:{'recs': [28376457, 51165489, 54673656, 34724000, 30904414, 10327923, 17370888, 26435526, 13483762, 46953927]}
+INFO:root:                   name
+id                     
+10327923           Viol
+13483762    Dum Dee Dum
+17370888   Destinations
+26435526   Eyes on Fire
+28376457      The Ocean
+30904414         Lordly
+34724000       Get Lost
+46953927        Free Me
+51165489  Old Town Road
+54673656         Lalala
+INFO:root:{'user_id': 94682, 'item_id': 54673656}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 94682, 'k': 10}
+INFO:root:{'recs': [26435526, 52832253, 43011129, 32989734, 54673656, 13483762, 51311438, 35678798, 51165489, 34022749]}
+INFO:root:                                                       name
+id                                                         
+13483762                                        Dum Dee Dum
+26435526                                       Eyes on Fire
+32989734                                   Across The Water
+34022749                                           Get Lost
+35678798                                            Steppin
+43011129                                            Breathe
+51165489                                      Old Town Road
+51311438  Borderlands 2 - This Ain't No Place For No Her...
+52832253                                               fast
+54673656                                             Lalala
+INFO:root:рекомендации для "холодного" пользователя (без персональных рекомендаций)
+INFO:root:Запрос рекомендаций для пользователя 1374583
+INFO:root:{'user_id': 1374583, 'k': 10}
+INFO:root:{'recs': [71560433, 92180103, 66793585, 71232367, 92866777, 81341518, 85283240, 67782332, 83754446, 28841193]}
+INFO:root:                                                       name
+id                                                         
+28841193                        Keep Your Hands to Yourself
+66793585  Massenet: Werther / Act 3 - "Pourquoi me révei...
+67782332                                         Этажи Леса
+71232367                         Happiest Days of Our Lives
+71560433                                    Tangled In Love
+81341518                                    Hard Lovin' Man
+83754446                                              Smile
+85283240                                      stay the same
+92180103                                               #A13
+92866777                                     Blue Christmas
+INFO:root:{'user_id': 1374583, 'item_id': 81341518}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1374583, 'k': 10}
+INFO:root:{'recs': [82285441, 79369406, 70941620, 79841858, 126533, 65567634, 709702, 126462, 72555296, 80900217]}
+INFO:root:                                                       name
+id                                                         
+126462                                        Into the Lens
+126533                                   Something's Coming
+709702                                                Intro
+65567634  Остров сокровищ. Часть 1. «Старый Пират»: Джим...
+70941620                                      The Cleansing
+72555296                                     Song and Dance
+79369406                                       How It Feels
+79841858                                   Дым стоит стеною
+80900217                                              Плыву
+82285441      Copper Kettle (with Rob Ickes & Trey Hensley)
+INFO:root:{'user_id': 1374583, 'item_id': 83754446}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1374583, 'k': 10}
+INFO:root:{'recs': [20508940, 81341516, 15039623, 34301612, 72579128, 35721021, 20508933, 63544302, 212592, 72822683]}
+INFO:root:                                      name
+id                                        
+212592               South Side of the Sky
+15039623  Christmas: The Holly and the Ivy
+20508933                       Ghost Ships
+20508940             Away Into the Horizon
+34301612                   The Alien Queen
+35721021                   Бакинская осень
+63544302                (deeperthanbefore)
+72579128                   A Walk In Paris
+72822683                        Safe Below
+81341516                     Into The Fire
+INFO:root:{'user_id': 1374583, 'item_id': 71232367}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1374583, 'k': 10}
+INFO:root:{'recs': [126533, 69081416, 38164088, 709975, 87491752, 59022189, 1115813, 82285430, 20508943, 51953521]}
+INFO:root:                                                       name
+id                                                         
+126533                                   Something's Coming
+709975                                            Drum Solo
+1115813                                           Let It Be
+20508943  Pirates and Poets (feat. Jeff Oster & Elizabet...
+38164088                                    New York Minute
+51953521                            You Boyz Make Big Noise
+59022189                                               1975
+69081416                        Bevor Alles Wieder Passiert
+82285430                                   Express Yourself
+87491752  Кремль завел партии-спойлеры, которые имитирую...
+INFO:root:{'user_id': 1374583, 'item_id': 92866777}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1374583, 'k': 10}
+INFO:root:{'recs': [709975, 709702, 126533, 73960291, 82246130, 89311362, 89311363, 25637251, 83777431, 69287797]}
+INFO:root:                                 name
+id                                   
+126533             Something's Coming
+709702                          Intro
+709975                      Drum Solo
+25637251    Batman Superman Spiderman
+69287797              Really Love You
+73960291  22:12 Until the End of Time
+82246130               Down and Dirty
+83777431                 So Many Ways
+89311362            Deep in the Night
+89311363                     Whispers
+INFO:root:{'user_id': 1374583, 'item_id': 92180103}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1374583, 'k': 10}
+INFO:root:{'recs': [91967591, 18046549, 2825836, 79841858, 56987792, 2200255, 81161052, 89311363, 79957223, 20508939]}
+INFO:root:                                                       name
+id                                                         
+2200255   Goldberg Variations BWV 988: Aria - Andante es...
+2825836                              Pouring It Out for You
+18046549                               Gus: The Theatre Cat
+20508939                                 Following the Rain
+56987792                       Wouldn’t Want To Be Like You
+79841858                                   Дым стоит стеною
+79957223                                               Gone
+81161052                                             Voices
+89311363                                           Whispers
+91967591                                           Outsider

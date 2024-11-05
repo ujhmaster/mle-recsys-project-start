@@ -61,7 +61,7 @@ jupyter lab --ip=0.0.0.0 --no-browser
 
 # Сервис рекомендаций
 
-Код сервиса рекомендаций находится в файле `ecommendations_service.py`.
+Код сервиса рекомендаций находится в файле `recommendations_service.py`.
 
 Из корневой папки проекта 
 ```
