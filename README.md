@@ -71,6 +71,9 @@ cd ~/mle_projects/mle-recsys-project-start
 ```
 uvicorn recommendations_service:app --port 8010
 ```
+
+Сортировка включает взвешивание характеристик трека на предпочтения пользователя
+
 # Инструкции для тестирования сервиса
 
 Код для тестирования сервиса находится в файле `test_service.py`.

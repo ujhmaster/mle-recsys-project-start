@@ -20,7 +20,7 @@ class RecRanks:
         self.agg_filds = ['artists','albums','genres']
         
         self.load_rec_file(hendler='events',file_path='./data/events.parquet')
-        self.load_rec_file(hendler='items',file_path='./data/items.parquet',index="item_id")
+        self.load_rec_file(hendler='items',file_path='./data/items.parquet')
 
         logging.info(msg='Class ' + __name__ + ' init')
     

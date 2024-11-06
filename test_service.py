@@ -39,7 +39,8 @@ def track_names_from_ids_list(ids):
     
     return track_names[track_names['id'].isin(ids)][['id','name']].set_index('id')
 
-
+print("завершена инициализация таблиц для тестирования")
+logging.info(f"завершена инициализация таблиц для тестирования")
 # выбираем случайного пользователя
 user_id = evenst['user_id'].sample(1).iloc[0]
 
@@ -132,3 +133,5 @@ for item in track_ids:
     logging.info(recs)
     names = track_names_from_ids_list(recs['recs'])
     logging.info(names)
+
+print("Тестирование завершено, результаты записаны в LOG")

@@ -1,627 +1,205 @@
-INFO:root:История пользователя 661379. Случайные 10 треков
-INFO:root:                            name
-id                              
-105324    Звезда по имени Солнце
-642286                  Only You
-3143581            Brother Louie
-3720361                 Не плачь
-18755182        Say You'll Never
-28036311        Still Loving You
-29900404      Букет из белых роз
-37425683                  Ohlala
-43202169  Цвет настроения чёрный
-51241318              In The End
-INFO:root:Запрос рекомендаций для пользователя 661379
-INFO:root:{'user_id': 661379, 'k': 10}
-INFO:root:{'recs': [44279380, 51516485, 28036311, 36664892, 44484514, 51241318, 34568038, 44184116, 45499814, 41667460]}
-INFO:root:                      name
-id                        
-28036311  Still Loving You
-34568038           Кольщик
-36664892         Я вернусь
-41667460         Angetenar
-44184116         Незабудка
-44279380           Плакала
-44484514            Shadow
-45499814              Life
-51241318        In The End
-51516485           bad guy
-INFO:root:{'user_id': 661379, 'item_id': 34568038}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 661379, 'k': 10}
-INFO:root:{'recs': [44484514, 14705475, 14705486, 28036311, 51516485, 36664892, 15776024, 14705484, 34568038, 44279380]}
-INFO:root:                          name
-id                            
-14705475   Приходите в мой дом
-14705484                Купола
-14705486               Магадан
-15776024  Человек в телогрейке
-28036311      Still Loving You
-34568038               Кольщик
-36664892             Я вернусь
-44279380               Плакала
-44484514                Shadow
-51516485               bad guy
-INFO:root:{'user_id': 661379, 'item_id': 28036311}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 661379, 'k': 10}
-INFO:root:{'recs': [36664892, 34568038, 4070239, 51516485, 10216, 690355, 44184116, 33221455, 2834233, 25996081]}
-INFO:root:                          name
-id                            
-10216           Wind Of Change
-690355                Humanity
-2834233       Still Loving You
-4070239               Исповедь
-25996081  Владимирский централ
-33221455           Девочка-пай
-34568038               Кольщик
-36664892             Я вернусь
-44184116             Незабудка
-51516485               bad guy
-INFO:root:{'user_id': 661379, 'item_id': 44184116}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 661379, 'k': 10}
-INFO:root:{'recs': [49125069, 25996081, 4070239, 1348113, 44625560, 690355, 4069956, 34568042, 2834233, 36664892]}
-INFO:root:                          name
-id                            
-690355                Humanity
-1348113        In The Army Now
-2834233       Still Loving You
-4069956   Владимирский централ
-4070239               Исповедь
-25996081  Владимирский централ
-34568042                 Фраер
-36664892             Я вернусь
-44625560                Молния
-49125069             Витаминка
-INFO:root:{'user_id': 661379, 'item_id': 51516485}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 661379, 'k': 10}
-INFO:root:{'recs': [51241318, 47627256, 53357546, 54833725, 33221455, 2834232, 43942453, 10216, 2758009, 44625560]}
-INFO:root:                         name
-id                           
-10216          Wind Of Change
-2758009   The Show Must Go On
-2834232        Wind of Change
-33221455          Девочка-пай
-43942453                  NBA
-44625560               Молния
-47627256              Cradles
-51241318           In The End
-53357546    Королева танцпола
-54833725         #Алкоголичка
-INFO:root:{'user_id': 661379, 'item_id': 45499814}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 661379, 'k': 10}
-INFO:root:{'recs': [51516485, 15776024, 54726527, 25996081, 50821247, 14705486, 56920237, 51452575, 34568042, 44484514]}
-INFO:root:                          name
-id                            
-14705486               Магадан
-15776024  Человек в телогрейке
-25996081  Владимирский централ
-34568042                 Фраер
-44484514                Shadow
-50821247              Зацепила
-51452575          Под гипнозом
-51516485               bad guy
-54726527                Lalala
-56920237         Beverly Hills
-INFO:root:рекомендации для "холодного" пользователя (без персональных рекомендаций)
-INFO:root:Запрос рекомендаций для пользователя 1374583
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [53279177, 45540936, 72579128, 92866777, 41744015, 71197053, 92180103, 84857798, 28841193, 82810459]}
-INFO:root:                                 name
-id                                   
-28841193  Keep Your Hands to Yourself
-41744015                       Сердце
-45540936   Когда любовь ко мне придёт
-53279177                 Не торопись!
-71197053              You Said It All
-72579128              A Walk In Paris
-82810459            Love Is Overrated
-84857798                       Порево
-92180103                         #A13
-92866777               Blue Christmas
-INFO:root:{'user_id': 1374583, 'item_id': 53279177}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [68370092, 29056759, 65567634, 82285430, 30901109, 4299217, 48905383, 24413210, 24413153, 86709318]}
-INFO:root:                                                       name
-id                                                         
-4299217                                          Раздвоение
-24413153                                     Колесо сансары
-24413210                                   Звезда и автомат
-29056759                                    Выворотное меню
-30901109                                    Киллер-бракодел
-48905383                                           Комиссар
-65567634  Остров сокровищ. Часть 1. «Старый Пират»: Джим...
-68370092                                     Future History
-82285430                                   Express Yourself
-86709318                                    Celestial Ether
-INFO:root:{'user_id': 1374583, 'item_id': 72579128}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [24413153, 72579133, 4299217, 33275012, 41744014, 75153086, 72822687, 29056759, 48905383, 32440512]}
-INFO:root:                           name
-id                             
-4299217              Раздвоение
-24413153         Колесо сансары
-29056759        Выворотное меню
-32440512           На здоровье!
-33275012  Strange Kind Of Woman
-41744014              Часы идут
-48905383               Комиссар
-72579133              Metroland
-72822687                 Psycho
-75153086            Velvet Ring
-INFO:root:{'user_id': 1374583, 'item_id': 92180103}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [79957224, 86595049, 89667660, 67301990, 72579123, 48905383, 86595070, 94902735, 75153086, 30901109]}
-INFO:root:                                                       name
-id                                                         
-30901109                                    Киллер-бракодел
-48905383                                           Комиссар
-67301990                                         Слышу тьму
-72579123                                    Metroland Theme
-75153086                                        Velvet Ring
-79957224                    Even Better Than The Real Thing
-86595049                      The First Bite Is the Deepest
-86595070                                          A Calling
-89667660  До выборов в Госдуму меньше месяца, а кампания...
-94902735                                               Лего
-INFO:root:{'user_id': 1374583, 'item_id': 41744015}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [41744023, 4299217, 36795729, 41744014, 84678792, 36795749, 65567634, 745450, 4298836, 48905383]}
-INFO:root:                                                       name
-id                                                         
-745450                        Santa Claus Is Comin' To Town
-4298836                                           Они хотят
-4299217                                          Раздвоение
-36795729                                 Бeзымяннaя плaнeтa
-36795749                              Будь co мнoй вcю нoчь
-41744014                                          Часы идут
-41744023                                Дождь смывает следы
-48905383                                           Комиссар
-65567634  Остров сокровищ. Часть 1. «Старый Пират»: Джим...
-84678792                                       The Notebook
-INFO:root:{'user_id': 1374583, 'item_id': 28841193}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [27956, 91969265, 36795888, 86595070, 16301637, 4299218, 4117935, 78931245, 694764, 48905383]}
-INFO:root:                        name
-id                          
-27956                 Coyote
-694764         Fallin' Apart
-4117935      God Gave Me You
-4299218        Мёртвые крысы
-16301637  New York's My Home
-36795888    Миллиoны aнгeлoв
-48905383            Комиссар
-78931245       Sandal Waters
-86595070           A Calling
-91969265          Gearing Up
-INFO:root:История пользователя 554093. Случайные 10 треков
-INFO:root:                              name
-id                                
-55556                      Amerika
-40308378  Наши юные смешные голоса
-44121106                  Без Тебя
-48591414                     Стиль
-48919492           На моих ладонях
-50685854             Ведьма и осёл
-62556355                    Демоны
-66649148          Ни много ни мало
-77274241      Просто привык думать
-89480861                  ШОРТ ЛАВ
-INFO:root:Запрос рекомендаций для пользователя 554093
-INFO:root:{'user_id': 554093, 'k': 10}
-INFO:root:История пользователя 250863. Случайные 10 треков
-INFO:root:                                name
-id                                  
-13510075             Rock On The Ice
-21674071     En Aranjuez Con Tu Amor
-32326584                 Old Letters
-35713050                    Нежность
-42548807                 Green State
-45302003          Como Estais Amigos
-61832681                 Romanticosm
-64540083                For Real Mix
-75382583                  To the Sun
-88204292  Black Velvet (Remake 2020)
-INFO:root:Запрос рекомендаций для пользователя 250863
-INFO:root:{'user_id': 250863, 'k': 10}
-INFO:root:{'recs': [51422266, 52974547, 50688560, 44034005, 50685846, 50684233, 45591357, 50685843, 60292250, 32307660]}
-INFO:root:                          name
-id                            
-32307660         Fade To Black
-44034005       Беспечный ангел
-45591357                Let Go
-50684233                Лесник
-50685843         Кукла колдуна
-50685846       Прыгну со скалы
-50688560  Проклятый старый дом
-51422266           DEUTSCHLAND
-52974547             Ausländer
-60292250       Blinding Lights
-INFO:root:{'user_id': 250863, 'item_id': 50688560}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 250863, 'k': 10}
-INFO:root:{'recs': [60292250, 29238706, 51422266, 50685843, 50685846, 50688560, 29213419, 29238709, 50685854, 52974547]}
-INFO:root:                          name
-id                            
-29213419                   Ром
-29238706        Дурак и молния
-29238709      Камнем по голове
-50685843         Кукла колдуна
-50685846       Прыгну со скалы
-50685854         Ведьма и осёл
-50688560  Проклятый старый дом
-51422266           DEUTSCHLAND
-52974547             Ausländer
-60292250       Blinding Lights
-INFO:root:{'user_id': 250863, 'item_id': 51422266}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 250863, 'k': 10}
-INFO:root:{'recs': [29238706, 55561, 44034005, 43117, 43119, 45591357, 52295995, 51422266, 50684233, 29238709]}
-INFO:root:                      name
-id                        
-43117                Sonne
-43119     Mein Herz Brennt
-55561               Moskau
-29238706    Дурак и молния
-29238709  Камнем по голове
-44034005   Беспечный ангел
-45591357            Let Go
-50684233            Лесник
-51422266       DEUTSCHLAND
-52295995             Radio
-INFO:root:{'user_id': 250863, 'item_id': 45591357}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 250863, 'k': 10}
-INFO:root:{'recs': [43119, 57686181, 36213054, 29238709, 43117, 52974547, 50685854, 45327267, 52295995, 33918665]}
-INFO:root:                               name
-id                                 
-43117                         Sonne
-43119              Mein Herz Brennt
-29238709           Камнем по голове
-33918665         In And Out Of Love
-36213054         In And Out Of Love
-45327267  Set Me Free (Empty Rooms)
-50685854              Ведьма и осёл
-52295995                      Radio
-52974547                  Ausländer
-57686181                   Steh auf
-INFO:root:{'user_id': 250863, 'item_id': 50685846}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 250863, 'k': 10}
-INFO:root:{'recs': [55561, 39354199, 25130370, 45591357, 4278532, 3712040, 50688560, 730324, 29213419, 50688528]}
+INFO:root:завершена инициализация таблиц для тестирования
+INFO:root:История пользователя 1214659. Случайные 10 треков
 INFO:root:                             name
 id                               
-55561                      Moskau
-730324                     Let Go
-3712040               Tell Me Why
-4278532   Let Go feat. Rea Garvey
-25130370                   Let Go
-29213419                      Ром
-39354199         Love Is Darkness
-45591357                   Let Go
-50688528         Мёртвый анархист
-50688560     Проклятый старый дом
-INFO:root:{'user_id': 250863, 'item_id': 52974547}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 250863, 'k': 10}
-INFO:root:{'recs': [33918665, 52295995, 45327267, 29238709, 52974547, 51422266, 50685854, 52974545, 50685860, 29238706]}
-INFO:root:                               name
-id                                 
-29238706             Дурак и молния
-29238709           Камнем по голове
-33918665         In And Out Of Love
-45327267  Set Me Free (Empty Rooms)
-50685854              Ведьма и осёл
-50685860            Ели мясо мужики
-51422266                DEUTSCHLAND
-52295995                      Radio
-52974545                  Zeig dich
-52974547                  Ausländer
-INFO:root:рекомендации для "холодного" пользователя (без персональных рекомендаций)
-INFO:root:Запрос рекомендаций для пользователя 1374583
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [65567634, 92180103, 64268483, 68341458, 68370092, 37840843, 88496446, 82810459, 28841193, 65559914]}
-INFO:root:                                                       name
-id                                                         
-28841193                        Keep Your Hands to Yourself
-37840843                                       Wasted Years
-64268483                                  Don't You Want Me
-65559914                                               Тюк!
-65567634  Остров сокровищ. Часть 1. «Старый Пират»: Джим...
-68341458  Dvorák: From the Bohemian Forest, Op. 68, B. 1...
-68370092                                     Future History
-82810459                                  Love Is Overrated
-88496446                                           Darkness
-92180103                                               #A13
-INFO:root:{'user_id': 1374583, 'item_id': 68341458}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [63544302, 34188113, 78224304, 14221092, 18379225, 84857798, 40585865, 84678792, 71560433, 83754446]}
-INFO:root:                              name
-id                                
-14221092         Mer Ute I Moerket
-18379225  Akılla Bir Konuşmam Oldu
-34188113                    Болеро
-40585865               Нинна нанна
-63544302        (deeperthanbefore)
-71560433           Tangled In Love
-78224304                   Paradox
-83754446                     Smile
-84678792              The Notebook
-84857798                    Порево
-INFO:root:{'user_id': 1374583, 'item_id': 92180103}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [73638997, 91969265, 18379225, 72579131, 79957223, 34188113, 24116090, 438214, 72555296, 74130230]}
-INFO:root:                              name
-id                                
-438214                 Sackpipslät
-18379225  Akılla Bir Konuşmam Oldu
-24116090                      Stay
-34188113                    Болеро
-72555296            Song and Dance
-72579131                She's Gone
-73638997           4th Floor Blues
-74130230           Хватит молчать!
-79957223                      Gone
-91969265                Gearing Up
-INFO:root:{'user_id': 1374583, 'item_id': 65559914}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [71011507, 69355131, 645957, 94902735, 44509390, 40585865, 71197053, 91969265, 14221092, 86355553]}
-INFO:root:                          name
-id                            
-645957          The Swordfight
-14221092     Mer Ute I Moerket
-40585865           Нинна нанна
-44509390  Где ж ты, мой сад...
-69355131            Party Meow
-71011507             Halloween
-71197053       You Said It All
-86355553    I'm an Accompanist
-91969265            Gearing Up
-94902735                  Лего
-INFO:root:{'user_id': 1374583, 'item_id': 37840843}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [82285441, 72822687, 438214, 37840834, 78931245, 32193069, 37840828, 55164749, 37840833, 55196927]}
-INFO:root:                                                   name
-id                                                     
-438214                                      Sackpipslät
-32193069                                 Morricone: H2S
-37840828                                 Death or Glory
-37840833                                     Powerslave
-37840834                              The Great Unknown
-55164749                                       На катке
-55196927                                 Первый пароход
-72822687                                         Psycho
-78931245                                  Sandal Waters
-82285441  Copper Kettle (with Rob Ickes & Trey Hensley)
-INFO:root:{'user_id': 1374583, 'item_id': 64268483}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [61764796, 18379225, 86355553, 37840840, 94902735, 37840831, 67301990, 67472538, 67301998, 37840838]}
-INFO:root:                              name
-id                                
-18379225  Akılla Bir Konuşmam Oldu
-37840831               The Trooper
-37840838               Iron Maiden
-37840840   The Number of the Beast
-61764796           Beyond the Pale
-67301990                Слышу тьму
-67301998                Сверхновая
-67472538          Mustapha (Intro)
-86355553        I'm an Accompanist
-94902735                      Лего
-INFO:root:История пользователя 94682. Случайные 10 треков
-INFO:root:                                     name
-id                                       
-15271                    Somebody Told Me
-170051                      Snow (Hey Oh)
-515897                               Home
-648437                         C.R.E.A.M.
-21153564                         No Twerk
-25726969                      Mess Around
-39959766                               21
-59467422                          Burrito
-61003285  Я тебя никогда не отдам мусорам
-77752065                          Podruga
-INFO:root:Запрос рекомендаций для пользователя 94682
-INFO:root:{'user_id': 94682, 'k': 10}
-INFO:root:{'recs': [30904414, 46409994, 31219146, 58723120, 54673656, 35785893, 44484514, 40493419, 44446013, 51165489]}
-INFO:root:                          name
-id                            
-30904414                Lordly
-31219146                My Way
-35785893  Got U (Ready or Not)
-40493419        Cumberland Gap
-44446013                   Opr
-44484514                Shadow
-46409994        When I'm Small
-51165489         Old Town Road
-54673656                Lalala
-58723120                 Odium
-INFO:root:{'user_id': 94682, 'item_id': 44446013}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 94682, 'k': 10}
-INFO:root:{'recs': [44446013, 31219146, 17370888, 28309721, 35785893, 54673656, 40493419, 26435526, 58723120, 46409994]}
-INFO:root:                          name
-id                            
-17370888          Destinations
-26435526          Eyes on Fire
-28309721       Gangsta Gangsta
-31219146                My Way
-35785893  Got U (Ready or Not)
-40493419        Cumberland Gap
-44446013                   Opr
-46409994        When I'm Small
-54673656                Lalala
-58723120                 Odium
-INFO:root:{'user_id': 94682, 'item_id': 31219146}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 94682, 'k': 10}
-INFO:root:{'recs': [58723120, 35137886, 32188268, 30904414, 26423850, 43011129, 44484514, 51165489, 32557948, 46409994]}
+209142                    Ratrace
+4387084                     Ветер
+8937773                 The Nexus
+19278831  Фудзи (feat. Луперкаль)
+25784395                       Ау
+28260242                 Delirium
+45621810   Never Have I Felt This
+58723123                    Tokyo
+59633283      Проснулся В Темноте
+67660707                   Closer
+INFO:root:Запрос рекомендаций для пользователя 1214659
+INFO:root:{'user_id': 1214659, 'k': 10}
+INFO:root:{'recs': [67140768, 38807013, 48064668, 40053576, 40053650, 57482829, 75378018, 38633715, 38633712, 68844236]}
 INFO:root:                       name
 id                         
-26423850        Led Spirals
-30904414             Lordly
-32188268            Be Mine
-32557948  You Don't Know Me
-35137886      Transmissions
-43011129            Breathe
-44484514             Shadow
-46409994     When I'm Small
-51165489      Old Town Road
-58723120              Odium
-INFO:root:{'user_id': 94682, 'item_id': 40493419}
+38633712       Группа крови
+38633715     Спокойная ночь
+38807013             Zombie
+40053576             Иордан
+40053650            Выдыхай
+48064668  We Are Number One
+57482829    Всё как у людей
+67140768       Parasite Eve
+68844236         Вне смерти
+75378018          Dark Side
+INFO:root:{'user_id': 1214659, 'item_id': 75378018}
 INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 94682, 'k': 10}
-INFO:root:{'recs': [62179349, 34100263, 29974715, 46953927, 44484514, 13483762, 51165489, 43011129, 41103243, 54673656]}
-INFO:root:                              name
-id                                
-13483762               Dum Dee Dum
-29974715  The Rocky Road to Dublin
-34100263                  Wild One
-41103243                    Murder
-43011129                   Breathe
-44484514                    Shadow
-46953927                   Free Me
-51165489             Old Town Road
-54673656                    Lalala
-62179349         Short Change Hero
-INFO:root:{'user_id': 94682, 'item_id': 35785893}
+INFO:root:{'user_id': 1214659, 'k': 10}
+INFO:root:{'recs': [67140768, 83043420, 78407102, 89013016, 38807013, 86076240, 48064668, 70939668, 40053576, 90557776]}
+INFO:root:                                    name
+id                                      
+38807013                          Zombie
+40053576                          Иордан
+48064668               We Are Number One
+67140768                    Parasite Eve
+70939668                Somebody Told Me
+78407102              Good F**King Music
+83043420                  Indestructible
+86076240  MONTERO (Call Me By Your Name)
+89013016                            STAY
+90557776                  Kill The Noise
+INFO:root:{'user_id': 1214659, 'item_id': 38633715}
 INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 94682, 'k': 10}
-INFO:root:{'recs': [28376457, 51165489, 54673656, 34724000, 30904414, 10327923, 17370888, 26435526, 13483762, 46953927]}
-INFO:root:                   name
-id                     
-10327923           Viol
-13483762    Dum Dee Dum
-17370888   Destinations
-26435526   Eyes on Fire
-28376457      The Ocean
-30904414         Lordly
-34724000       Get Lost
-46953927        Free Me
-51165489  Old Town Road
-54673656         Lalala
-INFO:root:{'user_id': 94682, 'item_id': 54673656}
+INFO:root:{'user_id': 1214659, 'k': 10}
+INFO:root:{'recs': [67140768, 83043420, 78407102, 48064668, 86076240, 89013016, 38807013, 70939668, 40053576, 90557776]}
+INFO:root:                                    name
+id                                      
+38807013                          Zombie
+40053576                          Иордан
+48064668               We Are Number One
+67140768                    Parasite Eve
+70939668                Somebody Told Me
+78407102              Good F**King Music
+83043420                  Indestructible
+86076240  MONTERO (Call Me By Your Name)
+89013016                            STAY
+90557776                  Kill The Noise
+INFO:root:{'user_id': 1214659, 'item_id': 40053576}
 INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 94682, 'k': 10}
-INFO:root:{'recs': [26435526, 52832253, 43011129, 32989734, 54673656, 13483762, 51311438, 35678798, 51165489, 34022749]}
-INFO:root:                                                       name
-id                                                         
-13483762                                        Dum Dee Dum
-26435526                                       Eyes on Fire
-32989734                                   Across The Water
-34022749                                           Get Lost
-35678798                                            Steppin
-43011129                                            Breathe
-51165489                                      Old Town Road
-51311438  Borderlands 2 - This Ain't No Place For No Her...
-52832253                                               fast
-54673656                                             Lalala
+INFO:root:{'user_id': 1214659, 'k': 10}
+INFO:root:{'recs': [67140768, 83043420, 78407102, 70939668, 38807013, 86076240, 89013016, 48064668, 32670666, 40053576]}
+INFO:root:                                    name
+id                                      
+32670666                          Гвозди
+38807013                          Zombie
+40053576                          Иордан
+48064668               We Are Number One
+67140768                    Parasite Eve
+70939668                Somebody Told Me
+78407102              Good F**King Music
+83043420                  Indestructible
+86076240  MONTERO (Call Me By Your Name)
+89013016                            STAY
+INFO:root:{'user_id': 1214659, 'item_id': 68844236}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1214659, 'k': 10}
+INFO:root:{'recs': [67140768, 83043420, 78407102, 70939668, 48064668, 89013016, 38807013, 86076240, 32670666, 40053576]}
+INFO:root:                                    name
+id                                      
+32670666                          Гвозди
+38807013                          Zombie
+40053576                          Иордан
+48064668               We Are Number One
+67140768                    Parasite Eve
+70939668                Somebody Told Me
+78407102              Good F**King Music
+83043420                  Indestructible
+86076240  MONTERO (Call Me By Your Name)
+89013016                            STAY
+INFO:root:{'user_id': 1214659, 'item_id': 57482829}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1214659, 'k': 10}
+INFO:root:{'recs': [67140768, 83043420, 78407102, 48064668, 70939668, 89013016, 86076240, 38807013, 60484265, 32670666]}
+INFO:root:                                    name
+id                                      
+32670666                          Гвозди
+38807013                          Zombie
+48064668               We Are Number One
+60484265                 Пусть они умрут
+67140768                    Parasite Eve
+70939668                Somebody Told Me
+78407102              Good F**King Music
+83043420                  Indestructible
+86076240  MONTERO (Call Me By Your Name)
+89013016                            STAY
 INFO:root:рекомендации для "холодного" пользователя (без персональных рекомендаций)
 INFO:root:Запрос рекомендаций для пользователя 1374583
 INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [71560433, 92180103, 66793585, 71232367, 92866777, 81341518, 85283240, 67782332, 83754446, 28841193]}
+INFO:root:{'recs': [81341518, 66793585, 45540936, 94902735, 74130230, 71232367, 72822687, 38230215, 75420131, 75558212]}
 INFO:root:                                                       name
 id                                                         
-28841193                        Keep Your Hands to Yourself
+38230215            Get Up, Stand Up / Outro With DJ Banter
+45540936                         Когда любовь ко мне придёт
 66793585  Massenet: Werther / Act 3 - "Pourquoi me révei...
-67782332                                         Этажи Леса
 71232367                         Happiest Days of Our Lives
-71560433                                    Tangled In Love
+72822687                                             Psycho
+74130230                                    Хватит молчать!
+75420131                                     Midnight Mover
+75558212                   Faster than speed of light (XXI)
 81341518                                    Hard Lovin' Man
-83754446                                              Smile
-85283240                                      stay the same
-92180103                                               #A13
-92866777                                     Blue Christmas
-INFO:root:{'user_id': 1374583, 'item_id': 81341518}
+94902735                                               Лего
+INFO:root:{'user_id': 1374583, 'item_id': 75558212}
 INFO:root:{'result': 'ok'}
 INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [82285441, 79369406, 70941620, 79841858, 126533, 65567634, 709702, 126462, 72555296, 80900217]}
+INFO:root:{'recs': [35567540, 42952666, 24231228, 75558213, 56067987, 81341518, 75558209, 23104343, 66793585, 82285441]}
 INFO:root:                                                       name
 id                                                         
-126462                                        Into the Lens
-126533                                   Something's Coming
-709702                                                Intro
-65567634  Остров сокровищ. Часть 1. «Старый Пират»: Джим...
-70941620                                      The Cleansing
-72555296                                     Song and Dance
-79369406                                       How It Feels
-79841858                                   Дым стоит стеною
-80900217                                              Плыву
+23104343                                         The Escape
+24231228                                            Skyline
+35567540                                            Shoguns
+42952666                                            3NDL3SS
+56067987                                   Svarog's Morning
+66793585  Massenet: Werther / Act 3 - "Pourquoi me révei...
+75558209                                    Bluespace (XXI)
+75558213                                   Milk Stars (XXI)
+81341518                                    Hard Lovin' Man
 82285441      Copper Kettle (with Rob Ickes & Trey Hensley)
-INFO:root:{'user_id': 1374583, 'item_id': 83754446}
+INFO:root:{'user_id': 1374583, 'item_id': 45540936}
 INFO:root:{'result': 'ok'}
 INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [20508940, 81341516, 15039623, 34301612, 72579128, 35721021, 20508933, 63544302, 212592, 72822683]}
-INFO:root:                                      name
-id                                        
-212592               South Side of the Sky
-15039623  Christmas: The Holly and the Ivy
-20508933                       Ghost Ships
-20508940             Away Into the Horizon
-34301612                   The Alien Queen
-35721021                   Бакинская осень
-63544302                (deeperthanbefore)
-72579128                   A Walk In Paris
-72822683                        Safe Below
-81341516                     Into The Fire
+INFO:root:{'recs': [35567540, 42952666, 24231228, 75558213, 56067987, 35903125, 28098157, 75558209, 23104343, 30391026]}
+INFO:root:                       name
+id                         
+23104343         The Escape
+24231228            Skyline
+28098157  Переключая каналы
+30391026       Мама Goodbye
+35567540            Shoguns
+35903125           Оттепель
+42952666            3NDL3SS
+56067987   Svarog's Morning
+75558209    Bluespace (XXI)
+75558213   Milk Stars (XXI)
+INFO:root:{'user_id': 1374583, 'item_id': 74130230}
+INFO:root:{'result': 'ok'}
+INFO:root:{'user_id': 1374583, 'k': 10}
+INFO:root:{'recs': [35567540, 42952666, 75812219, 24231228, 77234444, 71706149, 75558213, 71706166, 62252920, 56067987]}
+INFO:root:                           name
+id                             
+24231228                Skyline
+35567540                Shoguns
+42952666                3NDL3SS
+56067987       Svarog's Morning
+62252920       С тобой навсегда
+71706149  Всё, что осталось мне
+71706166            Это наш мир
+75558213       Milk Stars (XXI)
+75812219               Каллисто
+77234444            Награждение
 INFO:root:{'user_id': 1374583, 'item_id': 71232367}
 INFO:root:{'result': 'ok'}
 INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [126533, 69081416, 38164088, 709975, 87491752, 59022189, 1115813, 82285430, 20508943, 51953521]}
-INFO:root:                                                       name
-id                                                         
-126533                                   Something's Coming
-709975                                            Drum Solo
-1115813                                           Let It Be
-20508943  Pirates and Poets (feat. Jeff Oster & Elizabet...
-38164088                                    New York Minute
-51953521                            You Boyz Make Big Noise
-59022189                                               1975
-69081416                        Bevor Alles Wieder Passiert
-82285430                                   Express Yourself
-87491752  Кремль завел партии-спойлеры, которые имитирую...
-INFO:root:{'user_id': 1374583, 'item_id': 92866777}
+INFO:root:{'recs': [25637256, 35567540, 42952666, 75812219, 24231228, 77234444, 52745016, 50587879, 84396416, 85075431]}
+INFO:root:                        name
+id                          
+24231228             Skyline
+25637256  One Night With You
+35567540             Shoguns
+42952666             3NDL3SS
+50587879              Где-то
+52745016    Там, за облаками
+75812219            Каллисто
+77234444         Награждение
+84396416   The Great Unknown
+85075431       Terminal Love
+INFO:root:{'user_id': 1374583, 'item_id': 94902735}
 INFO:root:{'result': 'ok'}
 INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [709975, 709702, 126533, 73960291, 82246130, 89311362, 89311363, 25637251, 83777431, 69287797]}
-INFO:root:                                 name
-id                                   
-126533             Something's Coming
-709702                          Intro
-709975                      Drum Solo
-25637251    Batman Superman Spiderman
-69287797              Really Love You
-73960291  22:12 Until the End of Time
-82246130               Down and Dirty
-83777431                 So Many Ways
-89311362            Deep in the Night
-89311363                     Whispers
-INFO:root:{'user_id': 1374583, 'item_id': 92180103}
-INFO:root:{'result': 'ok'}
-INFO:root:{'user_id': 1374583, 'k': 10}
-INFO:root:{'recs': [91967591, 18046549, 2825836, 79841858, 56987792, 2200255, 81161052, 89311363, 79957223, 20508939]}
-INFO:root:                                                       name
-id                                                         
-2200255   Goldberg Variations BWV 988: Aria - Andante es...
-2825836                              Pouring It Out for You
-18046549                               Gus: The Theatre Cat
-20508939                                 Following the Rain
-56987792                       Wouldn’t Want To Be Like You
-79841858                                   Дым стоит стеною
-79957223                                               Gone
-81161052                                             Voices
-89311363                                           Whispers
-91967591                                           Outsider
+INFO:root:{'recs': [79957224, 56987792, 75262424, 37840835, 37840843, 38164088, 47166212, 71560433, 62252920, 56067987]}
+INFO:root:                                     name
+id                                       
+37840835                The Book of Souls
+37840843                     Wasted Years
+38164088                  New York Minute
+47166212               Running Down Again
+56067987                 Svarog's Morning
+56987792     Wouldn’t Want To Be Like You
+62252920                 С тобой навсегда
+71560433                  Tangled In Love
+75262424                      Comin' Home
+79957224  Even Better Than The Real Thing
