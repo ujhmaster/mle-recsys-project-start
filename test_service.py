@@ -3,7 +3,7 @@ import requests
 import logging
 import random
 
-logging.basicConfig(filename='./logs/test_service.log',level=logging.INFO)
+logging.basicConfig(filename='./test_service.log',level=logging.INFO)
 
 # задаём адрес сервиса рекомендаций и параметры запросов
 service_url = 'http://127.0.0.1:8010'
